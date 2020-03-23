@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Arjun Venkat's website
+description: This is a website made by Arjun Venkat.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
