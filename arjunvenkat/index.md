@@ -7,4 +7,5 @@ Here's a picture of me:
 
 
 
-- [Back to home page](https://arjunvenkat510.github.io/)
+
+[Back to home page](https://arjunvenkat510.github.io/)
