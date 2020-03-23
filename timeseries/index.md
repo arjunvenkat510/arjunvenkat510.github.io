@@ -1,5 +1,5 @@
 ---
-title: Time Series Decomposition
+title: Time Series Decomposition (Arjun Venkat)
 description: Content on time series
 ---
 
