@@ -3,7 +3,7 @@ title: My website
 description: This site contains content that I have worked on.
 ---
 
-- [My name](/arjunvenkat/index.md)
+- [Arjun Venkat](/arjunvenkat/index.md)
 
 Below are links to my work:
 
