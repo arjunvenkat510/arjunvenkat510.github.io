@@ -9,4 +9,4 @@ Below is the work I completed for a time series decomposition assignment:
 
 
 
-- [Back to home page](/index.md)
+[Back to home page](https://arjunvenkat510.github.io/)
