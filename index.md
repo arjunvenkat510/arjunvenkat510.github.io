@@ -5,6 +5,7 @@ description: This site contains content that I have worked on.
 
 ![My Picture](/pics/ArjunVenkat.JPG)
 
+-[My name](/arjunvenkat/index.md)
 
 Below are links to my work:
 
