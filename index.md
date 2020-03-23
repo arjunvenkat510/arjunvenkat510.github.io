@@ -9,4 +9,4 @@ Below are links to my work:
 
 - [Time Series decomposition](/timeseries/index.md)
 
-- [Repository](https://github.com/arjunvenkat510/otherwork)
+- [Other Work](/otherwork/index.md)
